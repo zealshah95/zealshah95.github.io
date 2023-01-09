@@ -38,7 +38,7 @@ Prior to joining UMass, I interned at [SparkMeter](https://www.sparkmeter.io/) w
 	ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys'22)\\
 	Alex Yen, **Zeal Shah**, Benjamin Ochoa, Pat Pannuto, Jay Taneja
 
-* [**A Higher Purpose: Measuring Electricity Access Using High-Resolution Daytime Satellite Imagery**](https://arxiv.org/pdf/2210.03909.pdf)\\
+* [**A Higher Purpose: Measuring Electricity Access Using High-Resolution Daytime Satellite Imagery**](https://arxiv.org/pdf/2210.03909.pdf) (Top 3 workshop papers)\\
 	Machine Learning for the Developing World (ML4D) Workshop at NeurIPS 2021\\
 	**Zeal Shah**, Simone Fobi, Gabriel Cadamuro, Jay Taneja
 
@@ -58,9 +58,9 @@ Prior to joining UMass, I interned at [SparkMeter](https://www.sparkmeter.io/) w
 	IEEE Global Humanitarian Technology Conference (GHTC'20)\\
 	**Zeal Shah**, Feng-Chi Hsu, Christopher D Elvidge, Jay Taneja
 
-* [**GridInSight: Monitoring Electricity Using Visible Lights**](https://dl.acm.org/doi/abs/10.1145/3360322.3360855)\\
+* [**GridInSight: Monitoring Electricity Using Visible Lights**](https://dl.acm.org/doi/abs/10.1145/3360322.3360855) (Best Paper Nominee)\\
 	ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys'19)\\
-	**Zeal Shah**, Alex Yen, Ajey Pandey, Jay Taneja (Best Paper Nominee)
+	**Zeal Shah**, Alex Yen, Ajey Pandey, Jay Taneja
 	
 <!-- 
 
@@ -84,7 +84,7 @@ Prior to joining UMass, I interned at [SparkMeter](https://www.sparkmeter.io/) w
 	Energy for Growth Hub\\
 	Stephen Lee, **Zeal Shah**, Brian Min, Jay Taneja
 
-* [**What is Temporal Resolution?"**](https://www.atlasai.co/learn/what-is-temporal-resolution/)\\
+* [**What is Temporal Resolution?**](https://www.atlasai.co/learn/what-is-temporal-resolution/)\\
 	Atlas AI\\
 	**Zeal Shah**
 
