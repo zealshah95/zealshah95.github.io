@@ -43,7 +43,7 @@ Prior to joining UMass, I interned at [SparkMeter](https://www.sparkmeter.io/) w
 	**Zeal Shah**, Simone Fobi, Gabriel Cadamuro, Jay Taneja
 
 * [**Frameworks for Considering RESs and Load Uncertainties in VPP Decision-Making**](https://www.sciencedirect.com/science/article/pii/B9780323852678000159)\\
-	Scheduling and Operation of Virtual Power Plants (Book by Elsevier)
+	Scheduling and Operation of Virtual Power Plants (Book by Elsevier)\\
 	**Zeal Shah**, Ali Moghassemi, Panayiotis Moutis
 
 * [**The Electricity Scene from Above: Exploring Power Grid Inconsistencies Using Satellite Data in Accra, Ghana.**](https://www.sciencedirect.com/science/article/abs/pii/S0306261922005980)\\
@@ -77,15 +77,15 @@ Prior to joining UMass, I interned at [SparkMeter](https://www.sparkmeter.io/) w
 ## Blogposts
 
 * [**Frozen Out in Texas: Blackouts and Inequity**](https://www.rockefellerfoundation.org/case-study/frozen-out-in-texas-blackouts-and-inequity/)\\
-	Clean Energy Field Note/Case Study published by Rockefeller Foundation\\
+	Rockefeller Foundation \\
 	**Zeal Shah**, JP Carvallo, Feng-Chi Hsu, Jay Taneja
 
 * [**Lighting the Way: Nighttime Lights for Electrification Planning**](https://www.energyforgrowth.org/wp-content/uploads/2021/04/Lighting-the-Way_-Nighttime-Lights-for-Electrification-Planning-.pdf)\\
-	Memo published by Energy for Growth Hub\\
+	Energy for Growth Hub\\
 	Stephen Lee, **Zeal Shah**, Brian Min, Jay Taneja
 
 * [**What is Temporal Resolution?"**](https://www.atlasai.co/learn/what-is-temporal-resolution/)\\
-	Blogpost published by Atlas AI
+	Atlas AI\\
 	**Zeal Shah**
 
 ---
