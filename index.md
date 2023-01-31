@@ -16,11 +16,23 @@ Prior to joining UMass, I interned at [SparkMeter](https://www.sparkmeter.io/) w
 
 ## Experience
 
-* **PhD Data Engineering Intern** in the Privacy DE team at [Meta Reality Labs](https://about.meta.com/realitylabs/). (Summer 2022)
-* **AI Engineering Intern** in the AI Innovation team at [Atlas AI](https://www.atlasai.co/). (Summer 2020) 
-* **Data Science Intern** in the Systems Engineering team at [SparkMeter](https://www.sparkmeter.io/). (Spring & Summer 2018, Summer 2017)
-* **Product Engineering Intern** at [Nikola Power](https://www.wattmore.com/)(now WattMore). (Summer 2018)
+* **PhD Data Engineering Intern** in the Privacy DE team at [Meta Reality Labs](https://about.meta.com/realitylabs/). (Summer 2022)\\
+*Project:* Development of a dynamic event inventory for consistent cataloging and easy discovery of metadata related to the events emitted by all the Reality Labs apps and devices.\\
+*Tech stack:* Python, Dataswarm (Airflow), Presto, Daiquery, and Unidash
 
+
+* **AI Engineering Intern** in the AI Innovation team at [Atlas AI](https://www.atlasai.co/). (Summer 2020)
+*Project:* Development of monthly electrification data layers for the entire continent of Africa from 2012-20 using publicly available remote sensing data and machine learning.\\
+*Tech stack:* Python, and GCP tools -- Compute Engine, Earth Engine, BigQuery, Bucket. 
+
+
+* **Data Science Intern** in the Systems Engineering team at [SparkMeter](https://www.sparkmeter.io/). (Spring & Summer 2018, Summer 2017)
+*Project(s):* (i) Development of smart meter data intelligence reports to periodically deliver insights into technical and commercial operations of customer grids, (ii) Generating dashboards for real-time monitoring of deployed metering systems.\\
+*Tech stack:* Python, SQL, and Grafana.
+
+* **Product Engineering Intern** at [Nikola Power](https://www.wattmore.com/)(now WattMore). (Summer 2018)
+*Project:* Assist the engineering team in development of their proprietary energy management system.\\
+*Tech stack:* Python.
 
 ---
 
