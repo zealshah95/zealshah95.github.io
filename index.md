@@ -10,7 +10,7 @@ During my tenure as a PhD student, I have worked on a variety of practical data 
 
 Prior to joining UMass, I interned at [SparkMeter](https://www.sparkmeter.io/) where I worked on smart meter data analytics. I completed my MS in [Energy Science, Technology & Policy](https://www.cmu.edu/engineering/estp/) from [Carnegie Mellon University](https://www.cmu.edu/), Pittsburgh, and my BS in Electrical Engineering from [PDEU](https://www.pdpu.ac.in/), India. 
 
-**I am on the industry job market for summer/fall 2023!**
+> **I am on the industry job market for summer/fall 2023!**
 
 ---
 
