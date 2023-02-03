@@ -4,13 +4,14 @@ layout: default
 
 ## About Me
 
-My research lies at the intersection of data science and development with a focus on measuring energy infrastructure systems in developing and developed regions. Particularly, my work focuses on developing techniques for measuring and mapping the quality and reliability of electricity systems using remote sensing data and machine learning. 
+I am a 5th year Ph.D. candidate in Electrical and Computer Engineering at UMass Amherst, where I am part of the [STIMA lab](https://blogs.umass.edu/jtaneja/) (Systems Towards Infrastructure Measurement and Analytics) and the [e-GUIDE](https://eguide.io/) initiative (Electricity Growth and Use in Developing Economies). I am fortunate to be advised by Professor [Jay Taneja](https://blogs.umass.edu/jtaneja/). Broadly, my Ph.D. research lies at the intersection of data science and sustainable development.
 
-During my tenure as a PhD student, I have worked on a variety of practical data engineering and data science projects as an intern at [Meta Reality Labs](https://about.meta.com/realitylabs/) and [Atlas AI](https://www.atlasai.co/).
+During my tenure as a graduate student, I have worked on a variety of practical data engineering and data science projects as an intern at [Meta Reality Labs](https://about.meta.com/realitylabs/), [Atlas AI](https://www.atlasai.co/) and [SparkMeter](https://www.sparkmeter.io/).
 
-Prior to joining UMass, I interned at [SparkMeter](https://www.sparkmeter.io/) where I worked on smart meter data analytics. I completed my MS in [Energy Science, Technology & Policy](https://www.cmu.edu/engineering/estp/) from [Carnegie Mellon University](https://www.cmu.edu/), Pittsburgh, and my BS in Electrical Engineering from [PDEU](https://www.pdpu.ac.in/), India. 
+I hold a MS in Energy Science, Technology & Policy](https://www.cmu.edu/engineering/estp/) (with a concentration in ECE) from [Carnegie Mellon University](https://www.cmu.edu/), Pittsburgh and a BS in Electrical Engineering from [PDEU](https://www.pdpu.ac.in/), India.
 
-> **I am on the industry job market for summer/fall 2023!**
+
+> **I am actively seeking full-time industry opportunities for summer/fall 2023!**
 
 ---
 
@@ -33,6 +34,17 @@ Prior to joining UMass, I interned at [SparkMeter](https://www.sparkmeter.io/) w
 * **Product Engineering Intern** at [Nikola Power](https://www.wattmore.com/)(now WattMore). (Summer 2018) \\
 *Project:* Assist the engineering team in development of their proprietary energy management system.\\
 *Tech stack:* Python.
+
+* **Graduate Teaching Assistant** at [Carnegie Mellon University](https://www.cmu.edu/). (Spring & Fall 2017) \\
+*Courses:* (i) Fundamental Electrical Power Systems, (ii) Embedded Control Systems\\
+
+---
+
+## Research Summary
+
+My research focuses on developing cost-effective and pervasive electric grid sensing solutions using existing infrastructure such as digital cameras, satellite imagery, and computing tools such as machine learning and deep learning. I explore and develop both localized and wide-area monitoring solutions. Localized monitoring uses cameras to evaluate the phase and quality of electricity at the edges of distribution grids, with the aim of creating an economical solution for utilities that cannot afford expensive smart meter deployments. However, scaling localized camera-based monitoring to a larger area such as a country-wide scale can be challenging, which is where wide-area monitoring comes in. My wide-area monitoring work combines large amounts of satellite images and ground-collected data to estimate electrification status, power supply inconsistencies, and their impacts at high spatiotemporal resolution across a wide area. This research aims to generate historical, high-resolution outage maps of 500 cities in the US and 300 cities in Africa and make them publicly accessible, enabling global comparisons of utility performance, tracking the success of grid investments, and complementing various infrastructure surveys and research studies.
+
+<!-- Collaborators: Atlas AI, Columbia University, Colorado School of Mines, LBNL, NREL, UC Berkeley  -->
 
 ---
 
