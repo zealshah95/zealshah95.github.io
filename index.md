@@ -8,7 +8,7 @@ I am a 5th year Ph.D. candidate in Electrical and Computer Engineering at UMass 
 
 During my tenure as a graduate student, I have worked on a variety of practical data engineering and data science projects as an intern at [Meta Reality Labs](https://about.meta.com/realitylabs/), [Atlas AI](https://www.atlasai.co/) and [SparkMeter](https://www.sparkmeter.io/).
 
-I hold a MS in Energy Science, Technology & Policy](https://www.cmu.edu/engineering/estp/) (with a concentration in ECE) from [Carnegie Mellon University](https://www.cmu.edu/), Pittsburgh and a BS in Electrical Engineering from [PDEU](https://www.pdpu.ac.in/), India.
+I hold a MS in [Energy Science, Technology & Policy](https://www.cmu.edu/engineering/estp/) (with a concentration in ECE) from [Carnegie Mellon University](https://www.cmu.edu/), Pittsburgh and a BS in Electrical Engineering from [PDEU](https://www.pdpu.ac.in/), India.
 
 
 > **I am actively seeking full-time industry opportunities for summer/fall 2023!**
