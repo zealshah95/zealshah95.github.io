@@ -50,8 +50,8 @@ My research focuses on developing cost-effective and pervasive electric grid sen
 
 ## Publications
 
-* **The Inequitable Distribution of Power Interruptions During the 2021 Texas Winter Storm Uri.** \\
-	Under review \\
+* [**The Inequitable Distribution of Power Interruptions During the 2021 Texas Winter Storm Uri.**](https://doi.org/10.1088/2634-4505/acd4e7)\\
+	Environmental Research: Infrastructure and Sustainability \\
 	**Zeal Shah**, Juan Pablo Carvallo, Feng-Chi Hsu, Jay Taneja 
 
 * [**PowerScour: Tracking Electrified Settlements Using Satellite Data**](https://dl.acm.org/doi/abs/10.1145/3563357.3564069)\\
