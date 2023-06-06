@@ -66,8 +66,8 @@ My research focuses on developing cost-effective and pervasive electric grid sen
 	Machine Learning for the Developing World (ML4D) Workshop at NeurIPS 2021\\
 	**Zeal Shah**, Simone Fobi, Gabriel Cadamuro, Jay Taneja
 
-* [**Frameworks for Considering RESs and Load Uncertainties in VPP Decision-Making**](https://www.sciencedirect.com/science/article/pii/B9780323852678000159)\\
-	Scheduling and Operation of Virtual Power Plants (Book by Elsevier)\\
+* [**Frameworks for Considering RESs and Load Uncertainties in VPP Decision-Making**](https://www.sciencedirect.com/science/article/pii/B9780323852678000159) (Book chapter)\\
+	Scheduling and Operation of Virtual Power Plants (Elsevier)\\
 	**Zeal Shah**, Ali Moghassemi, Panayiotis Moutis
 
 * [**The Electricity Scene from Above: Exploring Power Grid Inconsistencies Using Satellite Data in Accra, Ghana.**](https://www.sciencedirect.com/science/article/abs/pii/S0306261922005980)\\
